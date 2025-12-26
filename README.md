@@ -11,3 +11,10 @@
 
 4. **Press Information Bureau (PIB) – SBM Infrastructure & Funding (2024)**  
    https://static.pib.gov.in/WriteReadData/specificdocs/documents/2024/sep/doc2024918396901.pdf
+## 🧱 System Architecture / Project Flowchart
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nowordsyours/Hackathon/3566f24baf4299579ce7c4b926254a3b0bb8cdd9/Untitled%20diagram-2025-12-25-175115.png" alt="Smart Toilet System Flowchart" width="800">
+</p>
+
+> **Figure:** Overall architecture and flow diagram of the Smart Toilet Hygiene Monitoring System showing sensors, AI processing, and automation layers.
