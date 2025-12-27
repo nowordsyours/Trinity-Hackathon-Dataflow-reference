@@ -231,7 +231,8 @@ python enhanced_auth_app.py
 # Admin: http://localhost:5000/admin_dashboard
 ```
 
-For full AI model documentation, see [`ai_model/README.md`](ai_model/README.md)
+For full AI model documentation, see [ai_model/README.md](https://github.com/Pantkartik/Trinity-Hackathon/blob/main/ai_model/README.md)
+
 
 ---
 
