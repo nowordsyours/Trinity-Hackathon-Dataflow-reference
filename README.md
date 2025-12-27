@@ -215,7 +215,21 @@ This project has been developed purely for **educational and hackathon purposes*
 - **Predictive Analytics:** Forecasts hygiene degradation trends  
 - **Real-time Monitoring:** Analyzes continuous sensor data  
 - **Automated Alerts:** Smart notification and task system  
-- **Performance Tracking:** Detailed reporting and analytics  
+- **Performance Tracking:** Detailed reporting and analytics
+
+  ### Quick Start
+```bash
+# Install dependencies
+pip install -r requirements.txt
+
+# Start the main application
+python enhanced_auth_app.py
+
+# Access dashboards
+# Public: http://localhost:5000/public_dashboard_enhanced
+# Staff: http://localhost:5000/staff_dashboard
+# Admin: http://localhost:5000/admin_dashboard
+```
 
 For full AI model documentation, see [`ai_model/README.md`](ai_model/README.md)
 
